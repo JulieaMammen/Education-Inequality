@@ -1,6 +1,6 @@
 # Do socioeconomic factors impact educational opportunities in U.S. high school?
 
-This project aims to address the inequality of educational opportunity in U.S> high schools, focusing on student performance on the ACT or SAT exams. We aim to determine whether socioeconomic factors impact the schools' performance.
+This project aims to address the inequality of educational opportunity in U.S. high schools, focusing on student performance on the ACT or SAT exams. We aim to determine whether socioeconomic factors impact the schools' performance.
 
 ## Data
 
