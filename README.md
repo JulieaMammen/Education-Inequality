@@ -11,3 +11,13 @@ The data set from EdGap is under the file named:
 
 The second data set ccd_Sch_029_1617_w_1a_1121017.csv is too large, but can be acccessed from the dropbox link: 
   https://www.dropbox.com/s/lkl5nvcdmwyoban/ccd_sch_029_1617_w_1a_11212017.csv?dl=0
+  
+  ## Data Preparation
+  
+  In order to prepare the data, we will load the data sets and then join the two together to be able to identify missing values. From determining the missing values we then can impute them in order to get a more cohesive data set for us to start analyzing. 
+  
+  The file that contains the notebook that prepares the data is called: 
+    Julie Mammen-DATA 3320 Education Inequality Data Preparation.ipynb
+    
+  The file that contains the clean data file is called: 
+    clean_edgap_school_info.csv
