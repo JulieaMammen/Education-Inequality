@@ -21,3 +21,10 @@ The second data set ccd_Sch_029_1617_w_1a_1121017.csv is too large, but can be a
     
   The file that contains the clean data file is called: 
     clean_edgap_school_info.csv
+    
+    ## Data Analysis
+    
+    Analysis is performed on the cleaned data set now, primarily using single and multiple linear regressions in order to see the correlation between the socioeconomic factors and average ACT score. We use single input models to see the relationships between individual predictors and average ACT score, and also multiple input models to see the overall model for the data and see the overall relationship to average ACT scores. 
+    
+    The file that contains the analysis for the data is called: 
+      JulieMammen_DATA_3320_Education_Analysis.ipynb
