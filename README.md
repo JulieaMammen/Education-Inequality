@@ -1,6 +1,10 @@
 # Do socioeconomic factors impact educational opportunities in U.S. high school?
 
+## Description
 This project aims to address the inequality of educational opportunity in U.S. high schools, focusing on student performance on the ACT or SAT exams. We aim to determine whether socioeconomic factors impact the schools' performance.
+
+## Requirements
+The software used in this project was Google Colab and the language used was python.
 
 ## Data
 
