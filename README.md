@@ -20,7 +20,7 @@ The second data set ccd_Sch_029_1617_w_1a_1121017.csv is too large, but can be a
     Julie Mammen-DATA 3320 Education Inequality Data Preparation.ipynb
     
   The file that contains the clean data file is called: 
-    clean_edgap_school_info.csv
+    clean_edgap_school_info(2).csv
     
     ## Data Analysis
     
