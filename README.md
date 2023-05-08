@@ -28,3 +28,11 @@ The second data set ccd_Sch_029_1617_w_1a_1121017.csv is too large, but can be a
     
     The file that contains the analysis for the data is called: 
       JulieMammen_DATA_3320_Education_Analysis.ipynb
+
+## Authors
+ Julie Mammen
+
+## License
+ Creative Commons Zero v1.0 Universal
+ 
+ cc0-1.0
